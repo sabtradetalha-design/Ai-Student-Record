@@ -1,0 +1,16 @@
+[
+    {
+        "student_id": "76575",
+        "name": "fggdf",
+        "class_name": "3",
+        "subjects": [
+            "fgdfgf"
+        ],
+        "marks": [
+            56.0
+        ],
+        "total": 56.0,
+        "average": 56.0,
+        "grade": "D"
+    }
+]
